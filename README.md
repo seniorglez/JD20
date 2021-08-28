@@ -1,6 +1,6 @@
 # JD20
 
-A simple library for rolling dice in D&D-like systems. It doesn't have a test, and to be honest, it may never have it.
+A simple library for rolling dice in D&D-like systems. It doesn't have tests, and to be honest, it may never have it.
 
 ## MIT License
 
